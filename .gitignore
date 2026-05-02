@@ -1,0 +1,22 @@
+.env
+outputs/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.eggs/
+.next/
+node_modules/
+*.log
+app.log
+*.pyc
+# Allow static/index.html only
+static/**
+!static/index.html
+.claude/
+*.local.json
+=0.10.0,
+crew_ai.txt
+Crew ai.txt
