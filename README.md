@@ -10,9 +10,18 @@
 
 ## ✨ Demo
 
-![Screenshot Placeholder](https://via.placeholder.com/1200x600/0a0f1e/ffffff?text=LinkedIn+Post+AI+Demo+Screenshot)
+<img width="540" height="1600" alt="Success State" src="https://github.com/user-attachments/assets/83d6ca9c-8e3b-4ffd-a9cb-e50397193dff" />
+<img width="599" height="1600" alt="Strate" src="https://github.com/user-attachments/assets/4795fcdb-480f-460a-bcb2-cbed4024b2c1" />
+<img width="580" height="1600" alt="Settings" src="https://github.com/user-attachments/assets/72f32b56-9c16-4f8e-9d53-2c95bb33d94b" />
+<img width="575" height="1600" alt="Scheduling" src="https://github.com/user-attachments/assets/5259d7e8-3b27-4b38-87e4-045aa04d5cc8" />
+<img width="561" height="1600" alt="Rearch" src="https://github.com/user-attachments/assets/1639d35a-f044-4698-81d6-f92d60c2eebd" />
+<img width="557" height="1600" alt="Optmizer" src="https://github.com/user-attachments/assets/0bbefba0-bd73-42a2-bdad-949e5f052884" />
+<img width="527" height="1600" alt="Dashboard" src="https://github.com/user-attachments/assets/f73035c4-64b6-4a69-b0b7-cf660ca74a25" />
+<img width="1600" height="1399" alt="screen" src="https://github.com/user-attachments/assets/917a0ec0-5210-477d-8299-0f45609da589" />
+<img width="397" height="1600" alt="All agents" src="https://github.com/user-attachments/assets/5f34defd-cdb7-4d65-ac55-79943db33da0" />
+<img width="514" height="1600" alt="Write" src="https://github.com/user-attachments/assets/949ec1d2-86ce-4b18-91ee-3b69674b9de5" />
 
-*Add a screenshot of the UI here after running the app locally.*
+
 
 ## 🏗️ Architecture
 
